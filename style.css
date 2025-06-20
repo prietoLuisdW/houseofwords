@@ -275,3 +275,99 @@
     }
   }
   
+
+
+  .autor-detalle {
+    background-color: #fff;
+    padding: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .autor-info {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+  }
+
+  .nombre-autor {
+    font-size: 2.2rem;
+    font-family: 'Georgia', serif;
+    font-weight: bold;
+    color: #003b36;
+    margin-top: 1rem;
+    text-align: center;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+    letter-spacing: 1px;
+  }
+  
+  .foto {
+    flex: 1;
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  .foto img {
+    width: auto;
+    max-height: 300px; /* Puedes reducir esto a 250px o 200px si lo ves grande aún */
+    border-radius: 10px;
+    border: 3px solid #ffca0d;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    object-fit: cover;
+  }
+  
+  .foto h2 {
+    margin-top: 1rem;
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: #000;
+  }
+  
+  .bio {
+    flex: 2;
+    max-width: 700px;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    text-align: justify;
+  }
+  
+  .cuento-tarjeta {
+    margin: 1rem auto;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    max-width: 900px;
+    padding: 1rem;
+    background-color: #f9f9f9;
+    transition: all 0.3s ease;
+  }
+  
+  .cuento-header {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+  
+  .cuento-texto {
+    margin-top: 1rem;
+    display: none;
+    font-size: 1rem;
+    color: #444;
+  }
+
+  .cuento-texto p {
+    margin-bottom: 1em;
+    line-height: 1.6;
+  }
+  
+  .cuento-tarjeta.abierto .cuento-texto {
+    display: block;
+  }
+  
+  .toggle {
+    font-size: 1.5rem;
+    color: #666;
+  }
+  
