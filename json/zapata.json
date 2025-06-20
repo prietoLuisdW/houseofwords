@@ -1,0 +1,27 @@
+{
+    "autor": {
+      "nombre": "Manuel Zapata Olivella",
+      "biografia":  [
+        "Manuel Zapata Olivella fue un escritor, médico y antropólogo colombiano, nacido el 17 de marzo de 1920 en Lorica, Córdoba, y fallecido el 19 de noviembre de 2004 en Bogotá.",
+        "Desde joven, mostró interés por la cultura, las tradiciones y la historia de los pueblos afrocolombianos. Viajó por muchos países, y en sus libros defendió la riqueza cultural de los pueblos negros e indígenas de América.",
+        "Escribió cuentos, novelas y ensayos. Su obra más conocida es “Changó, el gran putas”, una novela sobre la historia y la fuerza del pueblo africano en América. También escribió cuentos para niños, como “El tambor africano” y “Cuentos del Caribe”.",
+        "Zapata Olivella fue un gran defensor de la diversidad cultural, y enseñó que todos los pueblos tienen el mismo valor y merecen ser escuchados y respetados."
+      ],
+      "foto": "../images/zapata.jpg"
+    },
+    "cuentos": [
+      {
+        "titulo": "Tierra mojada (Fragmento)",
+        "texto": "<p>Los peones de una gran hacienda… eran los pajareros más felices sobre la tierra, pues habían encontrado la manera de que el gamonal no los hiciera trabajar a pleno sol cuando el cultivo de arroz estaba maduro.</p><p>De puros vivos, los peones se acostaban a dormir… pero cada día uno de ellos se quedaba despierto para avisar si el patrón llegaba.</p><p>El patriarca, astuto, adormidera al vigía, y así los encontró dormidos saboreándose de gusto como caimán en playa…</p><p>Y el viejo Goyo, adelantándose, dijo la moraleja del cuento: ‘¡No hay peor cuña que la del mismo palo!’</p>"
+      },
+      {
+        "titulo": "Pasión vagabunda (Fragmento)",
+        "texto": "<p>Por un largo corredor sembrado de alcobas harapientas, subiendo dos escaleras colgantes y tras cruzar nuevas habitaciones, llegué a la última puerta, en un rincón, donde encontré a mi hermano, recién venido de su trabajo.</p><p>Dura debió ser aquella prueba para quien soñaba con un hermano médico en Bogotá, y lo encontraba condecorado con las primeras medallas de la miseria.</p><p>Desnudas sus espaldas… me vi estremecer…</p><p>‘¿Tienes hambre?’ —me dijo. — ‘Apenas he chupado naranjas en todo el día’</p>"
+      },
+      {
+        "titulo": "La rana que cantaba por amor (Fragmento)",
+        "texto": "<p>En un charco escondido del Caribe, vivía una rana diferente: no saltaba como las demás, sino que cantaba con una voz dulce y triste.</p><p>Los otros animales se burlaban, pero ella no se rendía.</p><p>— Canto porque mi corazón está lleno de amor —decía—, y porque quiero que alguien me escuche.</p><p>Una noche, su canto llegó hasta las estrellas, y entonces, la luna bajó a escucharla y la convirtió en la reina de la laguna.</p>"
+      }
+    ]
+  }
+  

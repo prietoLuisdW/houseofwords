@@ -1,7 +1,7 @@
 {
     "autor": {
       "nombre": "Gabriel García Márquez",
-      "biografia": "Gabriel García Márquez (1927-2014) fue un escritor, periodista y Nobel de Literatura colombiano, considerado uno de los más grandes autores del siglo XX. Su obra más reconocida, 'Cien años de soledad', es una de las máximas expresiones del realismo mágico y ha sido traducida a decenas de idiomas. Su estilo combina lo fantástico con lo cotidiano, y a través de sus relatos exploró la historia, la política y la cultura latinoamericana con una profundidad inigualable.",
+      "biografia":  "Gabriel García Márquez nació el 6 de marzo de 1927 en Aracataca, Colombia, y falleció el 17 de abril de 2014 en Ciudad de México. Fue un célebre escritor, periodista y ganador del Premio Nobel de Literatura en 1982.\n\nDurante su infancia vivió con sus abuelos maternos, cuyas historias y visión del mundo influyeron profundamente en su estilo narrativo. Estudió derecho y periodismo, pero abandonó sus estudios para dedicarse de lleno a la literatura y el periodismo.\n\nEs ampliamente reconocido como el principal exponente del realismo mágico, un estilo literario que combina lo fantástico con lo cotidiano. Su obra más emblemática es \"Cien años de soledad\" (1967), en la que da vida al mítico pueblo de Macondo, inspirado en su tierra natal.\n\nAdemás de novelas, escribió cuentos, crónicas y guiones cinematográficos. Entre sus obras más destacadas se encuentran \"El amor en los tiempos del cólera\", \"Crónica de una muerte anunciada\" y \"El coronel no tiene quien le escriba\". Fue una figura clave en la literatura latinoamericana y un referente en el pensamiento político y cultural del siglo XX.",
       "foto": "../images/gabo.jpg"
     },
     "cuentos": [

@@ -370,4 +370,53 @@
     font-size: 1.5rem;
     color: #666;
   }
+
+  body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  main {
+    flex: 1; /* el contenido se expande */
+  }
+  
+  footer {
+    width: 100%;
+    background-color: #005847; /* mismo verde del header */
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+  }
+  
+  .footer-left,
+  .footer-center,
+  .footer-right {
+    flex: 1;
+    min-width: 150px;
+    text-align: center;
+  }
+  
+  .footer-left a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .footer-left a:hover {
+    text-decoration: underline;
+  }
+  
+  .footer-right p,
+  .footer-center p {
+    margin: 3px 0;
+  }
+  
+  .powered-text {
+    font-style: italic;
+  }
   

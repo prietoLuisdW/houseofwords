@@ -1,0 +1,27 @@
+{
+    "autor": {
+      "nombre": "Jairo Aníbal Niño",
+      "biografia":  [
+        "Jairo Aníbal Niño fue un escritor colombiano que nació en el año 1941 en Moniquirá, Boyacá, y murió en 2010. Desde pequeño le gustaba mucho imaginar historias, jugar con palabras y observar la vida con ojos de niño, aunque fuera adulto.",
+        "Escribió cuentos, obras de teatro y poemas muy hermosos, llenos de ternura, fantasía y amor por la infancia. Muchas de sus historias hablan de niños valientes, soñadores y sensibles, que nos enseñan a ver el mundo con alegría y curiosidad.",
+        "Uno de sus libros más famosos se llama “La alegría de querer”, donde un niño dice lo que siente con palabras dulces y sinceras. También escribió cuentos como “El astronauta”, “Preguntario” y muchas historias breves donde los sueños, los juegos y la amistad son protagonistas.",
+        "Jairo Aníbal Niño creía que la imaginación es poderosa y que los niños tienen una forma especial de ver el mundo. Por eso, escribía para ellos, con amor y respeto."
+      ],
+      "foto": "../images/anibal.jpg"
+    },
+    "cuentos": [
+        {
+            "titulo": "El día que la ardilla no tuvo miedo",
+            "texto": "<p>Era otoño, y las hojas caían como lluvia lenta.</p><p>La pequeña ardilla Tita miraba desde su árbol el bosque enorme.</p><p>Sabía que, para llenar su nido, debía cruzar al otro lado…</p><p>Pero tenía miedo.</p><p>Los búhos ululaban fuerte, las ramas crujían solas, y el viento hablaba con voz de gigante.</p><p>Una mañana, se despertó y dijo:</p><p>—Hoy no quiero tener miedo. Hoy quiero tener nueces.</p><p>Saltó de rama en rama, como quien camina sobre nubes.</p><p>Corrió entre raíces, brincó sobre piedras, y cuando escuchó el aullido del viento, respondió:</p><p>—¡Aquí voy!</p><p>Y fue.</p><p>Regresó con la canasta llena y la cola despeinada.</p><p>Las otras ardillas la miraban como si fuera una heroína.</p><p>Esa noche, mientras se acurrucaba en su nido cálido, pensó:</p><p>—El miedo también se puede guardar en una canasta… y dejarlo allá lejos.</p>"
+          },
+          {
+            "titulo": "Lucas, el astronauta del armario",
+            "texto": "<p>Lucas no tenía nave espacial, ni traje de verdad, ni botones que hicieran ruidos.</p><p>Tenía una linterna, una caja de cartón, una sábana vieja y un corazón lleno de planetas.</p><p>Cada noche, después de la cena, se metía al armario con su linterna. Cerraba la puerta y contaba:</p><p>—Tres… dos… uno… ¡Despegue!</p><p>La linterna se volvía el sol de otro sistema, las paredes del armario eran galaxias, y las pelusas… ¡asteroides!</p><p>Un día, su mamá abrió la puerta y preguntó:</p><p>—¿Qué haces ahí?</p><p>—Estoy explorando un planeta nuevo. Se llama “Tranquilidad”.</p><p>—¿Y cómo es?</p><p>—Silencioso… y nadie te molesta.</p><p>Esa noche, su mamá le puso una estrella fosforescente en el techo y le dijo:</p><p>—Para que siempre encuentres el camino de regreso.</p><p>Lucas sonrió. Porque sabía que su nave podía llevarlo lejos… pero su casa siempre sería su estación base.</p>"
+          },
+          {
+            "titulo": "La niña que hablaba con los pájaros",
+            "texto": "<p>Sara no hablaba mucho en clase.</p><p>No porque no supiera, sino porque las palabras le salían en otro idioma: el idioma de las alas.</p><p>Cada tarde, después de hacer la tarea, iba al parque con su cuaderno.</p><p>Se sentaba debajo del árbol grande, ese que parecía tener secretos entre las ramas.</p><p>Un mirlo se posaba cerca y le silbaba canciones antiguas.</p><p>Una paloma le traía ramitas pequeñas, como si fueran cartas.</p><p>Y un colibrí bailaba en el aire, deletreando poemas que solo ella entendía.</p><p>Los niños del parque decían:</p><p>—Ahí va la rara.</p><p>Pero ella no se molestaba. Porque rara también era la luna, y la luna nunca se quejaba.</p><p>Un día, un niño nuevo se le acercó. Se llamaba Simón y llevaba un cuaderno con dibujos de aviones.</p><p>—¿Qué escribes ahí? —preguntó.</p><p>—Palabras que me enseñan los pájaros.</p><p>Simón no se rió. Abrió su cuaderno y dijo:</p><p>—¿Te gustaría dibujar un avión para que vuelen juntos?</p><p>Desde entonces, Sara no hablaba solo con alas.</p><p>También aprendió a hablar con alguien que escuchaba con el corazón.</p>"
+          }
+    ]
+  }
+  
